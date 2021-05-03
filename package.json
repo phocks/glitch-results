@@ -16,7 +16,7 @@
     "move-file": "^1.1.0",
     "empty-folder": "^2.0.3",
     "underscore": "^1.9.1",
-    "unzipper": "^0.9.11"
+    "unzipper": "^0.10.11"
   },
   "engines": {
     "node": "8.x"
